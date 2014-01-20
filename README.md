@@ -4,6 +4,8 @@ auth-flow
 Generic Authentication Flowchart, made with [dia](https://wiki.gnome.org/Apps/Dia).
 A PDF version is included for convenience.
 
+The "profile" steps can be replaced to whatever your application requires in order to activate an account.
+
 Disclaimer
 ---
 
