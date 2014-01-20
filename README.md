@@ -12,8 +12,8 @@ This is an incomplete (see ToDo below) research and analysis based on the author
 ToDo
 ---
 
-- [ ] Include "Lost password" functionality
-- [ ] Include Unique Login Check
-- [ ] Include Same IP Policy
-- [ ] Include HTTP Referer check
-- [ ] Many, many more...
+- Include "Lost password" functionality
+- Include Unique Login Check
+- Include Same IP Policy
+- Include HTTP Referer check
+- Many, many more...
